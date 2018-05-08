@@ -1,5 +1,6 @@
 Right now the things that we need to do are:
 
+- A deamon
 - Define a proper proof of work
 - Integrate a REST HTTP API
 - Front-End for the service management
