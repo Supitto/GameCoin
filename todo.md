@@ -1,14 +1,9 @@
 Right now the things that we need to do are:
 
-- A deamon
-- Define a proper proof of work
-- Integrate a REST HTTP API
-- Front-End for the service management
-
-And we are working into:
-
-- A CLI to work with the system
+Decide the language (it will probably be hybrid)
+Build the codebase for the central unity
+Create the codebase for the client
 
 Done:
 
-- The base code of the block chain
+A shitty readme
